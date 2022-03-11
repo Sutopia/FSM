@@ -1,0 +1,17 @@
+{
+    "id": "su_FairSMod",
+    "name": "Fair S Mod",
+    "author": "Sutopia",
+    "utility": "true",
+    "version": "1.0.0a",
+    "description": "Fairer S Mod bonuses",
+    "gameVersion": "0.95.1a-RC6",
+	"jars": ["jar/SutFSM.jar"],
+	"dependencies": [
+        {
+            "id": "su_Concord",
+            "name": "Concord",
+            "version":{"major":3, "minor":5},
+        },
+    ],
+}

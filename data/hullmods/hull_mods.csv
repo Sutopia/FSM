@@ -1,0 +1,5 @@
+name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sprite
+,,,,,,,,,,,,,,,,,,
+S-Mod Compensation,su_global_s_mod_op_bonus,0,,,"","",0,,TRUE,,0,0,0,0,org.sutopia.starsector.mod.equity.hullmod.AddOpFromSMod,"For special modifications below %s/%s/%s/%s ordnance point costs, refund %s ordnance points of the difference","",graphics/icons/skills/technology.png
+,su_global_s_mod_op_bonus_listener,0,,,"","",0,,TRUE,TRUE,0,0,0,0,org.sutopia.starsector.mod.equity.hullmod.AddOpFromSModListener,"","",graphics/icons/skills/technology.png
+,,,,,,,,,,,,,,,,,,
