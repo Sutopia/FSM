@@ -1,0 +1,7 @@
+{
+    "fair_s_mod_settings" : {
+        "base_compensation_mult" : 0.75,
+        "bdsm_penalty" : 0.5,
+        "psmod_penalty" : 0.5,
+    }
+}
